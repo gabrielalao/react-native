@@ -1,1 +1,1 @@
-15 react-native app APIs created on 2/22/2020
+8 react-native app APIs created on 2/16/2020
